@@ -1,0 +1,107 @@
+
+#parent1 {
+    border: 2px solid black;
+    width: 20%;
+    float:left;
+position:fixed;
+
+    }
+#div1 {
+    border: 2px solid black;
+	margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+	
+
+}
+#div2 {
+    border: 2px solid black;
+	margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+
+}
+#div3 {
+    border: 2px solid black;
+	margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#div4 {
+    border: 2px solid black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#p1 {
+    margin:0px;
+    padding: 10px;
+
+}
+#p2{
+    margin:0px;
+    padding: 10px;
+}
+#p3{
+    margin:0px;
+    padding: 10px;
+}
+#p4{
+    margin:0px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+#parent2 {
+    float:right;
+    width: 78%;
+    }
+#div11 {
+    
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+
+}
+#div12 {
+    
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+
+}
+#div13 {
+    
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#div14 {
+    
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#context1{
+    margin:0px;
+    padding: 10px;
+
+}
+#context2 {
+    margin:30px;
+    padding: 10px;
+}
+#context3{
+    margin:30px;
+    padding: 10px;
+}
+#context4 {
+    margin:30px;
+    padding: 10px;
+}
+
