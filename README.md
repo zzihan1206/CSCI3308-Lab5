@@ -1,4 +1,4 @@
-#Jun Sheng
+#Zihan Zhou
 #"This might cause a merge conflict"
-#Partner: Zihan Zhou
+#Partner: Jun Sheng
 # CSCI3308_mylab5
